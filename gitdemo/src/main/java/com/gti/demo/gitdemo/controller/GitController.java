@@ -13,6 +13,9 @@ public class GitController {
     public String push() {
 
         if (gitService == null) {
+
+            System.out.println("push fail");
+
             return "push fail";
         }else {
             return "push success";
