@@ -12,7 +12,11 @@ public class GitController {
 
     public String push() {
 
-        return "push success";
+        if (gitService == null) {
+            return "push fail";
+        }else {
+            return "push success";
+        }
     }
 
     public String commit() {
