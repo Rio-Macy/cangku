@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3549c4c0-97d3-4834-9d57-0db7f0a873e7" name="Default Changelist" comment="" />
+    <list default="true" id="3549c4c0-97d3-4834-9d57-0db7f0a873e7" name="Default Changelist" comment="第七次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642089798790</updated>
-      <workItem from="1642089800180" duration="3117000" />
+      <workItem from="1642089800180" duration="3719000" />
     </task>
     <task id="LOCAL-00001" summary="第一次更改">
       <created>1642090024905</created>
@@ -125,11 +127,35 @@
       <option name="project" value="LOCAL" />
       <updated>1642092607267</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第六次提交">
+      <created>1642093126208</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642093126208</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第七次提交">
+      <created>1642093304008</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642093304008</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -175,7 +201,9 @@
     <MESSAGE value="第三次提交" />
     <MESSAGE value="第四次提交" />
     <MESSAGE value="第五次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第五次提交" />
+    <MESSAGE value="第六次提交" />
+    <MESSAGE value="第七次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第七次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="178" key="#Notifications" timestamp="1642090768873">
@@ -186,26 +214,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1061" y="91" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1642089962033" />
-    <state x="910" y="124" key="CommitChangelistDialog2" timestamp="1642092606238">
+    <state x="910" y="124" key="CommitChangelistDialog2" timestamp="1642093517147">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="910" y="124" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1642092606238" />
-    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1642092919874">
+    <state x="910" y="124" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1642093517147" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1642093515335">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1642092919874" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1642093515335" />
     <state x="922" y="274" key="FileChooserDialogImpl" timestamp="1642090513017">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="922" y="274" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1642090513017" />
+    <state x="811" y="247" key="RollbackChangesDialog" timestamp="1642093493327">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="811" y="247" key="RollbackChangesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1642093493327" />
     <state x="811" y="154" key="SettingsEditor" timestamp="1642090705152">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="811" y="154" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1642090705152" />
-    <state x="902" y="252" key="Vcs.Push.Dialog.v2" timestamp="1642092611536">
+    <state x="902" y="252" key="Vcs.Push.Dialog.v2" timestamp="1642093308180">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="902" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1642092611536" />
+    <state x="902" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1642093308180" />
     <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1642092593612">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
