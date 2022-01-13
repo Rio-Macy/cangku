@@ -14,4 +14,13 @@ public class GitController {
 
         return "push success";
     }
+
+    public String commit() {
+
+        if (gitService == null) {
+            return "commit fail";
+        }else {
+            return "commit success";
+        }
+    }
 }
