@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3549c4c0-97d3-4834-9d57-0db7f0a873e7" name="Default Changelist" comment="第八次提交">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+    <list default="true" id="3549c4c0-97d3-4834-9d57-0db7f0a873e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitdemo/gitdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gitdemo/gitdemo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642143244457</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="第19次提交">
+      <created>1642143613542</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642143613542</updated>
+    </task>
+    <task id="LOCAL-00011" summary="第21次提交">
+      <created>1642146352082</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642146352082</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +226,9 @@
     <MESSAGE value="第六次提交" />
     <MESSAGE value="第七次提交" />
     <MESSAGE value="第18次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第18次提交" />
+    <MESSAGE value="第19次提交" />
+    <MESSAGE value="第21次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第21次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="178" key="#Notifications" timestamp="1642090768873">
@@ -225,10 +239,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1061" y="91" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1642089962033" />
-    <state x="910" y="124" key="CommitChangelistDialog2" timestamp="1642143243365">
+    <state x="910" y="124" key="CommitChangelistDialog2" timestamp="1642146351110">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="910" y="124" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1642143243365" />
+    <state x="910" y="124" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1642146351110" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1642143297607">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -245,10 +259,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="811" y="154" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1642090705152" />
-    <state x="902" y="252" key="Vcs.Push.Dialog.v2" timestamp="1642143247422">
+    <state x="902" y="252" key="Vcs.Push.Dialog.v2" timestamp="1642146354653">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="902" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1642143247422" />
+    <state x="902" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1642146354653" />
     <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1642092593612">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
