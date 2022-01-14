@@ -12,4 +12,9 @@ public class Error {
         System.out.println("juntao_code");
         return "404";
     }
+
+    public static String fallBack1() {
+        System.out.println("process error...");
+        return "404";
+    }
 }
