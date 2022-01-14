@@ -14,4 +14,8 @@ public class GitUtil {
 
         return "push success";
     }
+
+    public static void run() {
+        System.out.println("run...");
+    }
 }
