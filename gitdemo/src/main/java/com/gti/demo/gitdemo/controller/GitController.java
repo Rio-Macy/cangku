@@ -9,6 +9,7 @@ import com.gti.demo.gitdemo.service.impl.GitServiceImpl;
 public class GitController {
 
     // Unable to access 'https://github.com/Rio-Macy/cangku.git/': Could not resolve host: github.com
+
     GitService gitService = new GitServiceImpl();
 
     public String push() {
