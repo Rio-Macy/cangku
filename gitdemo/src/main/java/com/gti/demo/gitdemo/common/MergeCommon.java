@@ -6,7 +6,7 @@ package com.gti.demo.gitdemo.common;
 public class MergeCommon {
 
     public static void play() {
-        System.out.println();
+        System.out.println("loading...");
     }
 
     public static void back() {
