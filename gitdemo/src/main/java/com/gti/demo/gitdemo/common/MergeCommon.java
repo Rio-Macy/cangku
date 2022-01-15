@@ -11,6 +11,6 @@ public class MergeCommon {
 
     public static void back() {
 
-        System.out.println("back...");
+        System.out.println("back");
     }
 }
